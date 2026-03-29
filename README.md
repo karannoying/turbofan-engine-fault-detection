@@ -6,9 +6,17 @@ data — the same approach used in industrial Prognostics and Health Management
 (PHM) systems at GE Aviation and Rolls-Royce.
 
 ---
+## Student Details
 
-## Project Structure
+| Field | Details |
+|---|---|
+| **Name** | Kumar Karan Bohidar |
+| **Registration No.** | 25BAS10049 |
+| **Branch** | B.Tech – Aerospace Engineering |
+| **Year** | First Year (2025-29) |
+| **Course Code** | CSA2001 – Fundamentals in AI/ML |
 
+---
 ```
 turbofan_fault_detection/
 ├── run.py                   ← Master script: runs the full pipeline
